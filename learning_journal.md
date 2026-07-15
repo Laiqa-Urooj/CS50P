@@ -57,3 +57,19 @@
 -Solve a single problem than run and verify before moving to next subproblem
 - Trace loops one iteration at a time.
 - Test edge cases before finalizing.
+
+## CS50P Problem Set 3
+
+### 💡 Key Learnings
+
+- Used `try`/`except` to handle invalid input gracefully.
+- Used `while True` with `break` for input validation.
+- Learned to use dictionaries for counting frequencies.
+- Learned `sorted()` to iterate over dictionary keys alphabetically.
+- Parsed and validated multiple input formats.
+
+### 🐞 Debugging Lessons
+
+- Place error-prone code inside the `try` block.
+- Trace program flow to identify where exceptions occur.
+- Break complex problems into smaller validation steps.
