@@ -1,6 +1,6 @@
 # 🧠 Programming Mistakes & Lessons
 
-## CS50P Lecture 0
+## CS50P Problem Set 0
 
 ### Functions
 
@@ -24,7 +24,7 @@
 - Initialize Git in the project root.
 - `git status` is the first command to run when unsure.
 
-## CS50P Lecture 1
+## CS50P Problem Set 1
 
 ### 💡 Key Learnings
 
@@ -41,3 +41,19 @@
 - Built-in functions like `float()` return new values; assign them back.
 - Always check variable types when debugging (`type()`).
 - Read error messages before changing code.
+  
+## CS50P Problem Set 2
+
+### 💡 Key Learnings
+
+- break down the problem into small steps before solving
+-Think if there is need for loop or if built-in function is present
+-Try to concise code and keep it readable avoid complexities
+- Use helper functions for single responsibilities.
+- Use Boolean flags to track program state.
+- Use dictionaries for key–value lookups.
+### 🐞 Debugging Lessons
+
+-Solve a single problem than run and verify before moving to next subproblem
+- Trace loops one iteration at a time.
+- Test edge cases before finalizing.
