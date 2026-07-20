@@ -19,7 +19,6 @@ def validate(filename) :
         sys.exit("No such file") 
 
 def display_output(filename) :
-    # data = []
     with open(filename) as csvfile :
         data = csv.reader(csvfile)
         return tabulate.tabulate(data, headers= "firstrow", tablefmt="grid")
